@@ -5,4 +5,4 @@
 
 
 # Preview 
-<img src="https://cdn.discordapp.com/attachments/1007443487559520337/1099852690252648619/image_1.png">
+<img src="https://cdn.discordapp.com/attachments/1152040622266515506/1152382300542226545/Desktop_Screenshot_2023.09.16_-_02.15.13.42.png">
