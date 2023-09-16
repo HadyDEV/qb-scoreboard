@@ -1,5 +1,5 @@
 # qb-scoreboard
-* Join Our Discord : https://discord.gg/SawStore
+* Join Our Discord : https://discord.gg/Ex3UsUGmpS
 * Released : By Saw Store
 
 
